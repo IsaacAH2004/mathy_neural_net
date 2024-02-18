@@ -1,5 +1,5 @@
 # mathy_neural_net
-My artificial neural network pet project. The network utilizes mathematics to compute gradients and does not make use of Python ML libraries like PyTorch or Scikit-Learn. Enjoy!
+My artificial neural network pet project. The network utilizes the definition of the derivative to compute gradients and does not make use of Python ML libraries like PyTorch or Scikit-Learn. Enjoy!
 
 Why did I create this project?
 * Building a neural network without the aid of ML libraries was a very interesting exercise for me. Previously, I had learned about ML through PyTorch and Scikit-Learn, and I felt as if I wanted to gain a deeper understanding of the mathematics behind ML models.
@@ -10,6 +10,6 @@ Are there any issues with the project?
 
 What are my future plans for this project? 
 * The changes I hope to implement deal with making the network more time-efficient.
-* I have recently explored automatic differentiation (it relies on recursing through mathematical operations, which take the form of functions) as an alternative method of computing gradients that will likely be faster.
-* General optimizations to the network and removals of redundant code will invariably improve the network's time efficiency as well. 
+* I have recently explored automatic differentiation (relies on recursing through mathematical operations, which take the form of Python functions) as an alternative method of computing gradients that will likely be faster.
+* General optimizations and removals of redundant code will invariably improve the network's time efficiency as well. 
 
