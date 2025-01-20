@@ -5,7 +5,7 @@ Why did I create this project?
 * Building a neural network without the aid of ML libraries was a very interesting exercise for me. Previously, I had learned about ML through PyTorch and Scikit-Learn, and I felt as if I wanted to gain a deeper understanding of the mathematics behind ML models.
 
 Are there any issues with the project? 
-* As of Feb. 17, 2024, the neural network is terribly inefficient in terms of the time it takes to run. This is the result of me designing the network while prioritizing the use of mathematics over the network's actual functionality. 
+* As of January 2025, the neural network is terribly inefficient in terms of the time it takes to run. This is the result of me designing the network while prioritizing the use of mathematics over the network's actual functionality. 
 * Computing gradients in the way that I do -- using the definition of the derivative with lim(h) -> 0 -- is very slow. 
 
 What are my future plans for this project? 
